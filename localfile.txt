@@ -1,2 +1,4 @@
 Welcome to LTM. 
 Welcome to new corporate world and training.
+Tomorrow we will cover jenkins master-slave architecture
+We will cover AWS code pipeline.
