@@ -3,3 +3,4 @@ Welcome to new corporate world and training.
 Tomorrow we will cover jenkins master-slave architecture
 We will cover AWS code pipeline.
 I need to perform good in this milestone and score 100%.
+Now we will learn jenkins.
